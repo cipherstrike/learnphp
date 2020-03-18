@@ -1,0 +1,3 @@
+Welcome to Learn PHP 
+
+This is a novice learning PHP.
